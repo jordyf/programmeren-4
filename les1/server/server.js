@@ -12,6 +12,6 @@ app.post('/', function(request, response) {
 app.put('/', function(request, response) {
  response.send('Hello Avans, PUT request received!');
 })
-app.listen(3000, function() {
+app.listen(443, function() {
  console.log('Server app is listening on port 3000');
 })
