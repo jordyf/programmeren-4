@@ -1,1 +1,1 @@
-web: node ./les1/server/server.js
+web: node les1/server/server.js
