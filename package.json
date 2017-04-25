@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+   "main": "./les1/server/server.js",
+ "scripts": {
+ "start": "node ./server/server.js"
+ },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordyf/node-eersteserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordyf/node-eersteserver/issues"
+  },
+  "homepage": "https://github.com/jordyf/node-eersteserver#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
